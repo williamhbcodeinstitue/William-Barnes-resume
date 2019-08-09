@@ -41,6 +41,14 @@
     background-color: #8b008b;
 }
 
+.bg-color-github {
+    background-color: #DC143C;
+}
+
+.bg-color-interests {
+    background-color: #B8860B;
+}
+
 
 /*----------------------------------------Speacial paddings/margins/text*/
 
@@ -376,6 +384,11 @@ button[type="submit"]{
     color: #f5f5f5;
     font-weight: 200;
     
+}
+
+/*--------------------------------------------Map*/
+#map {
+    min-height: 360px;
 }
 
 
